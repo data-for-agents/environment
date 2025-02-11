@@ -16,6 +16,7 @@ This repository will contain the official web environment for our paper.
 
 ### Roadmap
 
+* today: 150k tasks released
 * 3 days: web environment released
 * 1 week: traces for agent actions released
 * 2 weeks: second round of data collection using Llama 3.3 70B
